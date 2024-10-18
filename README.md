@@ -1,4 +1,4 @@
-# Sword-With_Sauce-Cheats-Menu
+# Sword With Sauce Cheats Menu
 Cheats for Sword With Sauce (Unreal Engine 4 Game)
 
 ## Features
